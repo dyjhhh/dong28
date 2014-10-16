@@ -1,0 +1,42 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	STORE_ADDRESS     3007
+//	CHK_STRING_END    3008
+//	READ_CHOICE       300C
+//	ARRAY_START       3017
+//	DATABASE_START    3018
+//	PRINTOUT          3019
+//	PRINTNEWLINE      301D
+//	NEWLINE           3026
+//	PRINT_HEX_DIGIT   3027
+//	SHIFT_LOOP        302F
+//	DIG_LOOP          3033
+//	BIT_LOOP          3035
+//	MSB_CLEAR         3039
+//	HIGH_DIGIT        3041
+//	PRINT_DIGIT       3042
+//	PRINT_HEX_DIGIT_R2  304E
+//	PRINT_HEX_DIGIT_R3  304F
+//	PRINT_HEX_DIGIT_R4  3050
+//	PRINT_HEX_DIGIT_R5  3051
+//	PRINT_HEX_DIGIT_R6  3052
+//	PRINT_HEX_DIGIT_R7  3053
+//	ASC_ZERO          3054
+//	ASC_HIGH          3055
+//	PRINT_CHAR        3056
+//	POLL_DSR          3058
+//	DSR               305E
+//	DDR               305F
+//	PRINT_CHAR_R0     3060
+//	PRINT_CHAR_R7     3061
+//	PRINT_FOUR_HEX    3062
+//	PFHLOOP           306C
+//	PRINT_FOUR_HEX_R2  3079
+//	PRINT_FOUR_HEX_R3  307A
+//	PRINT_FOUR_HEX_R4  307B
+//	PRINT_FOUR_HEX_R5  307C
+//	PRINT_FOUR_HEX_R7  307D
+//	SPACE             307E
+

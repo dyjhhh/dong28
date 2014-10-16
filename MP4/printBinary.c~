@@ -1,0 +1,12 @@
+#include <stdio.h>
+#include "printBinary.h"
+
+void printBinary(const unsigned char val) {
+  for(int i = 7; i >= 0; i--) {
+    if (val & (i << i)) {
+      printf ("1");
+    } else {
+      printf("0");
+    }
+  }
+ 
